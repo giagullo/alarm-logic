@@ -1,4 +1,3 @@
-# Arduino logic
 Arduino logic for alarm box
 ===========================
 Configuration:
